@@ -1,16 +1,14 @@
-import java.util.Scanner;
-public class factorial {
+ import java.util.Scanner;
+public class factorialusingloop {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number ");
         int n = sc.nextInt();
-        long fact = 1;
-        int i = 1;
-        while (i<=n){
+        int fact = 1;
+        for(int i=1; i<=n; i++ ){
             fact *=i;
-            i++;
         }
+       
         System.out.println("the factorial of " + n + " is " +fact);
     }
-    
 }
