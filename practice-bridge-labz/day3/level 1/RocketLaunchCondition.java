@@ -10,9 +10,6 @@ public class RocketLaunchCondition {
         }
 
         System.out.println("rocket launched");
-
-
-
     }
     
 }
