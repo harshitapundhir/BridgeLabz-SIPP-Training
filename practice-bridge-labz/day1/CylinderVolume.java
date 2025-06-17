@@ -10,7 +10,7 @@ public class CylinderVolume {
 
         System.out.print("Enter the height of the cylinder: ");
         double height = sc.nextDouble();
-        double volume = Math.PI * Math.pow(radius, 2) * height
+        double volume = Math.PI * Math.pow(radius, 2) * height;
         System.out.println("Volume of the cylinder is: " + volume);
     }
 }
