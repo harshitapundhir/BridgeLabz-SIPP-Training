@@ -1,4 +1,4 @@
-package oops;
+package oops.fundamentals;
 
 import java.util.ArrayList;
 

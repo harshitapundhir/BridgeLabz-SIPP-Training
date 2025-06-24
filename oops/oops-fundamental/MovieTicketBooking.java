@@ -1,4 +1,4 @@
-package oops;
+package fundamentals;
 
 class MovieTicket {
     String movieName;

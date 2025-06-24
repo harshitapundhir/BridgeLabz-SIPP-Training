@@ -1,4 +1,4 @@
-package oops;
+package oops-fundamental;
 
 class Employee {
     String name;

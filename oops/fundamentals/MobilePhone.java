@@ -1,4 +1,4 @@
-package oops;
+package oops.fundamentals;
 
 class MobilePhone {
     String brand;

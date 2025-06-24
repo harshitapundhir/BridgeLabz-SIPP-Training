@@ -1,4 +1,4 @@
-package oops;
+package oops-fundamental;
 
 class BankAccount {
     String accountHolder;
