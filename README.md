@@ -16,7 +16,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ### 📅 10/06/25 (Tue) – Day 2 – Java Programming Elements  
 **Topics**: Arithmetic, relational, logical, bitwise, and assignment operators; type casting, precedence, associativity, and expression evaluation  
-🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/core-java/core-java/day2/level%201) Code-(https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/core-java/core-java/day2/level%202)
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/core-java/core-java/day2/level%201) 
 
 
 ---
