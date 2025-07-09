@@ -1,4 +1,3 @@
-package DSA.LINKED_LISTS;
 
 public class MovieManagementSystem {
     static class MovieNode {

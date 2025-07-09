@@ -1,4 +1,3 @@
-package DSA.LINKED_LISTS;
 
 public class TicketReservationSystem {
     static class TicketNode {

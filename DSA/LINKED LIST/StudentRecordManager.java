@@ -1,4 +1,4 @@
-package DSA.LINKED_LISTS;
+
 
 public class StudentRecordManager {
     static class StudentNode {

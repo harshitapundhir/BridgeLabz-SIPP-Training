@@ -1,4 +1,4 @@
-package DSA.LINKED_LISTS;
+
 
 import java.util.*;
 public class SocialMediaSystem {
