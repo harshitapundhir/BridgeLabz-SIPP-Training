@@ -70,7 +70,15 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/oops/oops/Constructor)
 
 ---
+### 📅 01/07/25 (Tue) – Day 5 – Java Inheritance  
+*Topics*: Inheritance,Single Level Inheritance,Multilevel Inheritance,Hierarchical Inheritance,Key Features of Inheritance,Method Overriding,Constructor Inheritance in Java,Polymorphism and Inheritance,Access Modifiers and Inheritance
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/oops/oops/Encapsulation%2C%20Polymorphism%2C%20Interface%20and%20Abstract%20Class)
 
+---
+
+### 📅 02/07/25 (Wed) – Day 6 – Java Encapsulation and Polymorphism  
+*Topics*: Encapsulation, Polymorphism, Interface and Abstract Class,Types of polymorphism,
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/oops/oops/Encapsulation%2C%20Polymorphism%2C%20Interface%20and%20Abstract%20Class)
 ### 📅 24/06/25 (Tue) – Day 3 – Java Keywords  
 **Topics**: Deep dive into important Java keywords: `static`, `final`, `this`, and `instanceof`, with practical examples for each  
 🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/oops/oops/Keyword)
@@ -80,6 +88,98 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ### 📅 25/06/25 (Tue) – Day 4 – Diagrams & Modelling  
 **Topics**: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition  
 🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/oops/oops/fundamentals)
+
+---
+
+
+## WORKSHOP Branch 🧱
+
+### 📅 26/06/25 (Thu) – Day 1
+Created Student and Student_Report classes to input multiple students' subject marks, calculate average and assign grades, and display a formatted report card
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/StudentReport.java)
+
+---
+
+### 📅 27/06/25 (Fri) – Day 2
+Ques1: Implemented BookBuddy with book addition, sorting, search by author, and conversion to array
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/BookBuddy.java)
+
+Ques2: Implemented quiz platform to evaluate answers, calculate scores, assign grades, and handle input validation
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/Quiz.java)
+
+---
+
+### 📅 28/06/25 (Sat) – Day 3
+Ques1: Implemented Flight Booking System with search, booking, and display features.
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/FlightBookingSystem.java)
+
+Ques2: Implemented CinemaTime movie schedule manager with all core features.
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/CinemaTimeManager.java)
+
+---
+
+### 📅 04/07/25 (Fri) – Day 4
+Ques: Add parcel tracker with stage tracking and lost parcel handling.
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/parcelTracker.java)
+
+---
+
+### 📅 10/07/25 (Thurs) – Day 5
+Ques: Implement University Enrollment System with OOP: classes, inheritance, grading interface, GPA handling.
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/UniversitySystem.java)
+
+---
+
+### 📅 11/07/25 (Fri) – Day 6
+Ques: Implement backend classes for CabGo ride-hailing app with vehicles, drivers, ride booking, and fare calculation.
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/CabGoTest.java)
+
+---
+
+### 📅 14/07/25 (Mon) – Day 7
+Ques 1: add browser history navigation using doubly linked list and OOP principles
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/BrowserHistoryDemo.java)
+
+Ques 2: Implement genre-wise library catalog using HashMap and LinkedList with duplication check via HashSet
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/BookShelfDemo.java)
+
+---
+
+### 📅 15/07/25 (Tues) – Day 8
+Ques: Add music playlist queue with custom LinkedList and OOP design
+[Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/blob/workshop/Workshop/MusicPlaylist.java)
+
+---
+
+## DSA Branch 🧱
+
+### 📅 03/07/25 (Thurs) – Day 1 – LINKED LIST  
+*Topics*: Introduction of Data Structure,Key Features of Data Structures in Java,Types of Data Structures in Java,Single Linked List, Double Linked List,Circular Linked List
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/dsa/DSA/LINKED%20LIST)
+
+---
+
+### 📅 07/07/25 - 08/07/25 (Mon-Tues) – Day 2 – STACK,QUEUE,HASHMAP  
+*Topics*: introduction to Stack, Queue, and their operations, HashMap and Hashing techniques.
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/dsa/DSA/Stack%20and%20Queue)
+
+---
+
+### 📅 09/07/25 (Wed) – Day 3 – Sorting Algorithms  
+*Topics*:Bubble Sort,Insertion Sort,Merge Sort,Quick Sort,Selection Sort,Heap Sort,Counting Sort
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/dsa/DSA/Sorting_Algorithms)
+
+---
+
+### 📅 10/07/25 (Thurs) – Day 4 – Searching Algorithms  
+*Topics*:StringBuilder,StringBuffer,FileReader,InputStreamReader,Linear Search,Binary Search,
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/dsa/DSA/Searching_Algorithms)
+
+---
+
+### 📅 11/07/25 (Fri) – Day 5 – Algorithm's Runtime Analysis & Big-O Notation  
+*Topics*:Runtime Analysis;Understanding Big-O Notation;Time Complexity Analysis;Space Complexity Analysis;Best, Worst, and Average Case Complexities;Practical Guidelines for Optimizing Java Code
+🔗 [Code](https://github.com/harshitapundhir/BridgeLabz-SIPP-Training/tree/dsa/DSA/Algorithm's_Runtime_Analysis)
 
 ---
 
