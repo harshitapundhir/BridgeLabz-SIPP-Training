@@ -72,7 +72,7 @@ public class parcelTracker {
     }
 
     public static void main(String[] args) {
-        ParcelTracker tracker = new ParcelTracker();
+        parcelTracker tracker = new parcelTracker();
         tracker.initializeDefaultChain();
         tracker.trackParcel();
 
