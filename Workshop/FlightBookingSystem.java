@@ -1,3 +1,4 @@
+package Workshop;
 import java.util.*;
 
 class Flight {
